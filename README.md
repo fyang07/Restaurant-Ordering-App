@@ -1,35 +1,19 @@
-# Restaurant Ordering App
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-A responsive restaurant ordering application built with **HTML, CSS, and JavaScript**. Users can browse menu items, add and remove items from their order, adjust quantities, view the calculated total, and complete a checkout form.
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
-## Features
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
 
-* Dynamic menu rendering from JavaScript data
-* Add menu items to an order
-* Increase and decrease item quantities
-* Remove items from an order
-* Dynamically calculate order totals
-* Checkout workflow with payment form
-* Personalized order confirmation message
-* Responsive layout for different screen sizes
+- [Our courses](https://scrimba.com/courses)
+- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-## Technologies
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* DOM Manipulation
-* JavaScript Array Methods
-* Event Handling
-
-## What I Practiced
-
-This project helped me practice building an interactive web application with vanilla JavaScript. I worked with DOM event handling, JavaScript arrays, `find()`, `findIndex()`, `reduce()`, template literals, destructuring, ES modules, form handling, and dynamically updating the UI based on application state.
-
-## Future Improvements
-
-* Add a backend API
-* Store menu items and orders in a database
-* Add user accounts and order history
-* Rebuild the frontend using React
-* Add real payment processing through a secure payment provider
+Happy Coding!
